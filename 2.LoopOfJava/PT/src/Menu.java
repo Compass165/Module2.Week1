@@ -36,7 +36,7 @@ public class Menu {
                     break;
 
                 case 3:
-                    System.out.println("Draw the Square");
+                    System.out.println("Draw the Rectangle");
                     for (int i = 0; i < 3; i++) {
                         for (int j = 0; j < 6; j++) {
                             System.out.print("*  ");

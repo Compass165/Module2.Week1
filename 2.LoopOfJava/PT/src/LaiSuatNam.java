@@ -12,7 +12,7 @@ public class LaiSuatNam {
         money = input.nextDouble();
         System.out.println("Nhập số tháng bạn muốn gửi: ");
         month = input.nextInt();
-        System.out.println("Nhập phần trăm lãi suất được nhận: ");
+        System.out.println("Tiền được nhận được nhận: ");
         interestRate = input.nextDouble();
 
         double totalInterest = 0;
